@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/jessm91/socialnetwork/issues"
   },
-  "homepage": "https://github.com/jessm91/socialnetwork#readme"
+  "homepage": "https://github.com/jessm91/socialnetwork#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.17"
+  }
 }
