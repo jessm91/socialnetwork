@@ -10,7 +10,7 @@ Make sure dependencies are installed
 
 On the command line, run:
 
-`npm init`
+`npm start`
 
 ## Demo
 
